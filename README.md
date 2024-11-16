@@ -1,4 +1,4 @@
-# Decoration Website
+# Home Decoration Ideas Website
 
 ## Project Members
 - Member 1 (Noor-Ul-Huda Imran)
