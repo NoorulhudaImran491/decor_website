@@ -1,4 +1,4 @@
-# Kitchen Decoration Website
+# Decoration Website
 
 ## Project Members
 - Member 1 (Noor-Ul-Huda Imran)
@@ -7,10 +7,9 @@
 - Member 4 (Syed Ijmaal)
 
 ## Project Description
-This is a collaborative project showcasing kitchen decoration ideas. It includes:
-- Creative design tips for modern kitchens.
-- Image galleries with various kitchen themes.
-- A contact form for feedback and suggestions.
+This website is a collaborative project focused on providing creative and inspiring home decoration ideas. It includes:
+- Tips for decorating various rooms (kitchen, backyard, etc.)
+- Image galleries showcasing different styles and themes.
 
 ## Technologies Used
 - HTML
